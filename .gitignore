@@ -88,4 +88,4 @@ local_settings.py
 .env
 db.sqlite3
 .mypy_cache
-media/
+media/*
